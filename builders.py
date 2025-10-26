@@ -117,3 +117,11 @@ def add_metadata(resource: dict, label: str, value: str):
         "label": en_lang_map(label),
         "value": en_lang_map(value)
     })
+
+
+def make_annotation(motivation: str, id_: str):
+    return {
+        "id": id_,
+        "type": "Annotation",
+        "motivation": [ motivation ]
+    }

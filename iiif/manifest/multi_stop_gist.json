@@ -1,0 +1,280 @@
+{
+    "id": "https://tomcrane.github.io/p4-constructor/iiif/manifest/multi_stop_gist.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Multi stop gist"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1",
+            "type": "Scene",
+            "label": {
+                "en": [
+                    "A scene"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/painting-annotation-pages/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/models/1",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "label": {
+                                "en": [
+                                    "An astronaut"
+                                ]
+                            },
+                            "body": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/model/models/astronaut.gltf",
+                                "type": "Model"
+                            },
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1"
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/2",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "body": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/2/body",
+                                "type": "Camera",
+                                "interactionMode": "locked",
+                                "lookAt": {
+                                    "id": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/models/1",
+                                    "type": "Annotation"
+                                }
+                            },
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1",
+                                "selector": [
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 4,
+                                        "y": 3,
+                                        "z": 2
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/5",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "body": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/5/body",
+                                "type": "Camera",
+                                "interactionMode": "orbit"
+                            },
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1",
+                                "selector": [
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 4,
+                                        "y": 3,
+                                        "z": 2
+                                    }
+                                ]
+                            },
+                            "behavior": [
+                                "hidden"
+                            ]
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/lights/6",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "body": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/lights/6/body",
+                                "type": "SpotLight",
+                                "lookAt": {
+                                    "type": "SpecificResource",
+                                    "source": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1",
+                                    "selector": [
+                                        {
+                                            "type": "PointSelector",
+                                            "x": 4,
+                                            "y": 3,
+                                            "z": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1",
+                                "selector": [
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 10,
+                                        "y": 10,
+                                        "z": 10
+                                    }
+                                ]
+                            },
+                            "behavior": [
+                                "hidden"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/3",
+                            "type": "Annotation",
+                            "motivation": [
+                                "commenting"
+                            ],
+                            "body": {
+                                "type": "TextualBody",
+                                "value": "Look at the glove"
+                            },
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1",
+                                "selector": [
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 12,
+                                        "y": 4,
+                                        "z": 9
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/activating/4",
+                            "type": "Annotation",
+                            "motivation": [
+                                "activating"
+                            ],
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/3",
+                            "body": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/5",
+                            "enables": [
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/5",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/lights/6",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/7",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/8"
+                            ],
+                            "disables": [
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/2",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/3",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/activating/4"
+                            ]
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/7",
+                            "type": "Annotation",
+                            "motivation": [
+                                "commenting"
+                            ],
+                            "body": {
+                                "type": "TextualBody",
+                                "value": "Long discursive text about the glove that should only be visible when looking at glove"
+                            },
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1",
+                                "selector": [
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 4,
+                                        "y": 3,
+                                        "z": 2
+                                    }
+                                ]
+                            },
+                            "behavior": [
+                                "hidden"
+                            ]
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/8",
+                            "type": "Annotation",
+                            "motivation": [
+                                "commenting"
+                            ],
+                            "body": {
+                                "type": "TextualBody",
+                                "value": "Look at the helmet"
+                            },
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1",
+                                "selector": [
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 0,
+                                        "y": 0,
+                                        "z": 9
+                                    }
+                                ]
+                            },
+                            "behavior": [
+                                "hidden"
+                            ]
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/activating/9",
+                            "type": "Annotation",
+                            "motivation": [
+                                "activating"
+                            ],
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/8",
+                            "body": "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/10",
+                            "enables": [
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/2",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/3",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/activating/4",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/10",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/lights/11",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/12",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/13"
+                            ],
+                            "disables": [
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/cameras/5",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/lights/6",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/7",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/commenting/8",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/multi_stop_gist.json/scene-1/other-annotation-pages/1/activating/9"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "source"
+                ]
+            },
+            "value": {
+                "en": [
+                    "https://gist.github.com/JulieWinchester/a70243fbd040278a8306b8ed0e194569"
+                ]
+            }
+        }
+    ]
+}
