@@ -22,11 +22,12 @@ def make_manifest(slug: str, label: str = None, with_metadata: bool = False) -> 
     resource = {
         "id": make_uri("manifest", slug),
         "type": "Manifest",
-        "label": {}
+        "label": {},
+        "metadata": [],
+        "items": []
     }
-    if with_metadata: # dict order before items
-        resource["metadata"] = []
-    resource["items"] = []
+    if not with_metadata:
+        del resource["metadata"]
     add_label(resource, label)
     return resource
 

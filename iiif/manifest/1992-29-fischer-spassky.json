@@ -6,6 +6,92 @@
             "F/S Return Match"
         ]
     },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Event"
+                ]
+            },
+            "value": {
+                "en": [
+                    "F/S Return Match"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Site"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Belgrade, Serbia JUG"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1992.11.04"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Round"
+                ]
+            },
+            "value": {
+                "en": [
+                    "29"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "White"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Fischer, Robert J."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Black"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Spassky, Boris V."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Result"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1/2-1/2"
+                ]
+            }
+        }
+    ],
     "items": [
         {
             "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/1",
@@ -4309,92 +4395,6 @@
                     ]
                 }
             ]
-        }
-    ],
-    "metadata": [
-        {
-            "label": {
-                "en": [
-                    "Event"
-                ]
-            },
-            "value": {
-                "en": [
-                    "F/S Return Match"
-                ]
-            }
-        },
-        {
-            "label": {
-                "en": [
-                    "Site"
-                ]
-            },
-            "value": {
-                "en": [
-                    "Belgrade, Serbia JUG"
-                ]
-            }
-        },
-        {
-            "label": {
-                "en": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "en": [
-                    "1992.11.04"
-                ]
-            }
-        },
-        {
-            "label": {
-                "en": [
-                    "Round"
-                ]
-            },
-            "value": {
-                "en": [
-                    "29"
-                ]
-            }
-        },
-        {
-            "label": {
-                "en": [
-                    "White"
-                ]
-            },
-            "value": {
-                "en": [
-                    "Fischer, Robert J."
-                ]
-            }
-        },
-        {
-            "label": {
-                "en": [
-                    "Black"
-                ]
-            },
-            "value": {
-                "en": [
-                    "Spassky, Boris V."
-                ]
-            }
-        },
-        {
-            "label": {
-                "en": [
-                    "Result"
-                ]
-            },
-            "value": {
-                "en": [
-                    "1/2-1/2"
-                ]
-            }
         }
     ]
 }

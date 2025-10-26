@@ -28,7 +28,7 @@ def make_piece_painting_anno(scene, xy_map, key, model, label):
 
 
 def make_board(game_slug: str, label: str):
-    manifest = make_manifest(game_slug, label)
+    manifest = make_manifest(game_slug, label, with_metadata=True)
     scene = make_scene("1", f"Scene for {label}", False) # we'll make our own annopage for clarity
     add_container(manifest, scene)
     ps_target = make_specific_resource_point_selector(scene, 0, 0, 0)

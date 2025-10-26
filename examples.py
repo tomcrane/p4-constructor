@@ -2,7 +2,7 @@ from builders import *
 from write import save
 
 
-def manifest_with_scene():
+def basic_astronaut():
     manifest = make_manifest("basic_astronaut.json", "Manifest with scene")
     scene = make_scene("s1", "A scene", True)
     add_container(manifest, scene)
@@ -11,4 +11,4 @@ def manifest_with_scene():
     save(manifest)
 
 
-manifest_with_scene()
+basic_astronaut()
