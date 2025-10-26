@@ -7,17 +7,16 @@ from write import save
 # Set up a chessboard (pointselectors, name painting annos using standard notation)
 # Read a chess notation format
 # with timestamps
-# construct scene with timeline
-# moves are events on timeline (if no timestamps, make them every 5s or whatever, variable)
-# use path to move the pieces
+# use JSON Patch -> path to move the pieces
 # use => hidden to take a piece (off the board)
 
 # Notation supported is https://en.wikipedia.org/wiki/Portable_Game_Notation
 # https://python-chess.readthedocs.io/en/latest/pgn.html
-# Going to make it easy for myself (and in the absence of actual models) to pretend:
-# - The board model is 8 Scene units by 8 Scene units and its model origin is its bottom left corner, so
-# placing the board model at 0,0,0 puts it in the horizontal plane extending 8 units into the y and x direction
-# from the origin. And white at bottom, so white's
+# Going to make it easy for myself (and in the absence of actual models) to pretend that:
+# - The board model is 8 Scene units by 8 Scene units and its model origin is its bottom left corner, so...
+# - placing the board model at 0,0,0 puts it in the horizontal plane extending 8 units into the y and x direction
+# - ...with white at the bottom.
+# - ...also, piece origin is in their bases, so we can place at x,y and have them sitting on the board.
 
 def make_piece_painting_anno(scene, xy_map, key, model, label):
     square_xy = xy_map[key]
@@ -87,34 +86,37 @@ def make_move_anno(board, move, board_map, xy_map, scene):
         "motivation": [ "commenting" ],
         "body": {
             "type": "TextualBody",
-            "value": f"{turn} {move}"
+            "value": f"{turn} {move}\n\n{str(board)}"
             # TODO: pull move comments from the parsed PGN
         },
         "target": scene["id"] # ? just target the scene all the time?
     })
     activating_annotation = make_move(activating_anno_id, board_map, commenting_anno_id, from_key, to_key, xy_map)
+    if activating_annotation is None:
+        return False
+
     scene['annotations'][1]['items'].append(activating_annotation)
 
-    # Extra castling piece moves
-    castle_from = None
-    castle_to = None
+    # Extra castling rook moves
+    rook_from = None
+    rook_to = None
     if str(move) == "e1g1":
-        castle_from = "h1"
-        castle_to = "f1"
+        rook_from = "h1"
+        rook_to = "f1"
     elif str(move) == "e1c1":
-        castle_from = "a1"
-        castle_to = "d1"
-    if str(move) == "e8g8":
-        castle_from = "h8"
-        castle_to = "f8"
+        rook_from = "a1"
+        rook_to = "d1"
+    elif str(move) == "e8g8":
+        rook_from = "h8"
+        rook_to = "f8"
     elif str(move) == "e8c8":
-        castle_from = "a8"
-        castle_to = "d8"
+        rook_from = "a8"
+        rook_to = "d8"
 
-    if castle_from is not None:
-        print(f"Castling: need to move rook as well - {castle_from}{castle_to}")
+    if rook_from is not None:
+        print(f"Castling: need to move rook as well - {rook_from}{rook_to}")
         castle_move = make_move(f"{activating_anno_id}-castle", board_map, commenting_anno_id,
-                                castle_from, castle_to, xy_map)
+                                rook_from, rook_to, xy_map)
         scene['annotations'][1]['items'].append(castle_move)
 
     print("-----------------------------------------------------------")
@@ -128,7 +130,7 @@ def make_move(activating_anno_id, board_map, commenting_anno_id, from_key, to_ke
     painting_anno_at_to = board_map[to_key]  # key will exist from initial population, value may be null
     if painting_anno_at_from is None:
         print("I can't make this move (for now), nothing on " + from_key)
-        # return False
+        return None
 
     from_xy = xy_map[from_key]
     to_xy = xy_map[to_key]
@@ -199,3 +201,4 @@ def pgn_to_manifest(pgn_path: str):
 
 
 pgn_to_manifest('games/1992-29-fischer-spassky.pgn')
+pgn_to_manifest('games/game-of-the-century.pgn')

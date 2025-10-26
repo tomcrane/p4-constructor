@@ -1,0 +1,124 @@
+{
+    "id": "https://tomcrane.github.io/p4-constructor/iiif/manifest/issue_2366.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "GitHub API issue 2366 - Light switch"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1",
+            "type": "Scene",
+            "label": {
+                "en": [
+                    "A scene"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/painting-annotation-pages/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/lightswitch-1",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "label": {
+                                "en": [
+                                    "A light switch"
+                                ]
+                            },
+                            "body": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/model/models/lightswitch.gltf",
+                                "type": "Model"
+                            },
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1"
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/lights/point-light-4",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "body": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/lights/4/body",
+                                "type": "PointLight"
+                            },
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1",
+                                "selector": [
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 5,
+                                        "y": 5,
+                                        "z": 5
+                                    }
+                                ]
+                            },
+                            "behavior": [
+                                "hidden"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/other-annotation-pages/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/other-annotation-pages/1/switch-comment-0",
+                            "type": "Annotation",
+                            "motivation": [
+                                "commenting"
+                            ],
+                            "body": {
+                                "type": "TextualBody",
+                                "value": "Click the switch to turn the light on or off"
+                            },
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/lightswitch-1"
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/other-annotation-pages/1/activating-on-2",
+                            "type": "Annotation",
+                            "motivation": [
+                                "activating"
+                            ],
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/lightswitch-1",
+                            "disables": [
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/other-annotation-pages/1/activating-on-2"
+                            ],
+                            "enables": [
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/other-annotation-pages/1/activating-off-3",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/lights/point-light-4"
+                            ]
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/other-annotation-pages/1/activating-off-3",
+                            "type": "Annotation",
+                            "motivation": [
+                                "activating"
+                            ],
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/lightswitch-1",
+                            "disables": [
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/other-annotation-pages/1/activating-off-3",
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/lights/point-light-4"
+                            ],
+                            "enables": [
+                                "https://tomcrane.github.io/p4-constructor/iiif/scene/issue_2366.json/scene-1/other-annotation-pages/1/activating-on-2"
+                            ],
+                            "behavior": [
+                                "hidden"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

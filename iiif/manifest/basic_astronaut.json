@@ -8,7 +8,7 @@
     },
     "items": [
         {
-            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/s1",
+            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/basic_astronaut.json/scene-1",
             "type": "Scene",
             "label": {
                 "en": [
@@ -17,7 +17,7 @@
             },
             "items": [
                 {
-                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/s1/painting-annotation-pages/1",
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/basic_astronaut.json/scene-1/painting-annotation-pages/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
@@ -35,14 +35,14 @@
                                 "id": "https://tomcrane.github.io/p4-constructor/iiif/model/models/astronaut.gltf",
                                 "type": "Model"
                             },
-                            "target": "https://tomcrane.github.io/p4-constructor/iiif/scene/s1"
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/scene/basic_astronaut.json/scene-1"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/s1/other-annotation-pages/1",
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/basic_astronaut.json/scene-1/other-annotation-pages/1",
                     "type": "AnnotationPage",
                     "items": []
                 }
