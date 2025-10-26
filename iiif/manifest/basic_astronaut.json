@@ -1,0 +1,52 @@
+{
+    "id": "https://tomcrane.github.io/p4-constructor/iiif/manifest/basic_astronaut.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Manifest with scene"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/s1",
+            "type": "Scene",
+            "label": {
+                "en": [
+                    "A scene"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/s1/painting-annotation-pages/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/astronaut",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "label": {
+                                "en": [
+                                    "An astronaut"
+                                ]
+                            },
+                            "body": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/model/models/astronaut.gltf",
+                                "type": "Model"
+                            },
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/scene/s1"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/s1/other-annotation-pages/1",
+                    "type": "AnnotationPage",
+                    "items": []
+                }
+            ]
+        }
+    ]
+}
