@@ -20,6 +20,7 @@ def add_label(resource: dict, label: str):
 
 def make_manifest(slug: str, label: str = None, with_metadata: bool = False) -> dict:
     resource = {
+        "@context": "http://iiif.io/api/presentation/4/context.json",
         "id": make_uri("manifest", slug),
         "type": "Manifest",
         "label": {},

@@ -1,4 +1,5 @@
 {
+    "@context": "http://iiif.io/api/presentation/4/context.json",
     "id": "https://tomcrane.github.io/p4-constructor/iiif/manifest/multi_stop_gist.json",
     "type": "Manifest",
     "label": {
