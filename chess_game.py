@@ -146,9 +146,9 @@ def make_move(activating_anno_id, board_map, commenting_anno_id, from_key, to_ke
             {
                 "type": "JSONPatch",
                 "patchTarget": painting_anno_at_from["id"],  # How else to get this in here????
-                "value": [
-                    {"op": "replace", "path": "/target/selector/1/x", "value": to_xy["x"]},
-                    {"op": "replace", "path": "/target/selector/1/y", "value": to_xy["y"]}
+                "value": [                    # these are JSON Pointers: https://datatracker.ietf.org/doc/html/rfc6901
+                    {"op": "replace", "path": "/target/selector/0/x", "value": to_xy["x"]},
+                    {"op": "replace", "path": "/target/selector/0/y", "value": to_xy["y"]}
                 ]
             }
         ]
