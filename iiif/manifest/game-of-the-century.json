@@ -2046,12 +2046,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -2072,12 +2072,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -2098,12 +2098,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2124,12 +2124,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -2150,12 +2150,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -2176,12 +2176,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 6.5
                                         }
                                     ]
@@ -2202,12 +2202,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2228,12 +2228,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 7.5
                                         }
                                     ]
@@ -2254,12 +2254,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 7.5
                                         }
                                     ]
@@ -2280,12 +2280,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2306,12 +2306,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -2332,12 +2332,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -2358,12 +2358,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2387,12 +2387,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2416,12 +2416,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -2442,12 +2442,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2468,12 +2468,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 6.5
                                         }
                                     ]
@@ -2494,12 +2494,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -2520,12 +2520,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -2546,12 +2546,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -2572,12 +2572,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2598,12 +2598,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -2624,12 +2624,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 0.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2650,12 +2650,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 0.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -2676,12 +2676,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -2705,12 +2705,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -2734,12 +2734,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2763,12 +2763,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 6.5
                                         }
                                     ]
@@ -2792,12 +2792,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -2818,12 +2818,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -2844,12 +2844,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -2873,12 +2873,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -2899,12 +2899,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 7.5
                                         }
                                     ]
@@ -2925,12 +2925,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -2951,12 +2951,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -2977,12 +2977,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -3006,12 +3006,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -3035,12 +3035,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3061,12 +3061,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 1.5
                                         }
                                     ]
@@ -3087,12 +3087,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3113,12 +3113,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -3142,12 +3142,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3168,12 +3168,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 1.5
                                         }
                                     ]
@@ -3194,12 +3194,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3220,12 +3220,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -3246,12 +3246,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3272,12 +3272,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -3301,12 +3301,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -3327,12 +3327,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 0.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -3353,12 +3353,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 5.5
                                         }
                                     ]
@@ -3382,12 +3382,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3411,12 +3411,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 7.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -3437,12 +3437,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 0.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 1.5
                                         }
                                     ]
@@ -3466,12 +3466,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 7.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 1.5
                                         }
                                     ]
@@ -3492,12 +3492,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 1.5
                                         }
                                     ]
@@ -3521,12 +3521,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3547,12 +3547,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3576,12 +3576,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 7.5
                                         }
                                     ]
@@ -3602,12 +3602,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 7.5
                                         }
                                     ]
@@ -3628,12 +3628,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3657,12 +3657,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -3683,12 +3683,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -3709,12 +3709,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -3735,12 +3735,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 7.5
                                         }
                                     ]
@@ -3761,12 +3761,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -3787,12 +3787,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 7.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -3813,12 +3813,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 7.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -3839,12 +3839,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -3865,12 +3865,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 6.5
                                         }
                                     ]
@@ -3891,12 +3891,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3917,12 +3917,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 4.5
                                         }
                                     ]
@@ -3943,12 +3943,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 5.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -3969,12 +3969,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 6.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -3995,12 +3995,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -4021,12 +4021,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 3.5
                                         }
                                     ]
@@ -4047,12 +4047,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 3.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -4073,12 +4073,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -4099,12 +4099,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -4125,12 +4125,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 4.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 1.5
                                         }
                                     ]
@@ -4151,12 +4151,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 1.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -4177,12 +4177,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 2.5
                                         }
                                     ]
@@ -4203,12 +4203,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 0.5
                                         }
                                     ]
@@ -4229,12 +4229,12 @@
                                     "value": [
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/x",
+                                            "path": "/target/selector/0/x",
                                             "value": 2.5
                                         },
                                         {
                                             "op": "replace",
-                                            "path": "/target/selector/1/y",
+                                            "path": "/target/selector/0/y",
                                             "value": 1.5
                                         }
                                     ]
