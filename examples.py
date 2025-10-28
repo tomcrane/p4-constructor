@@ -205,8 +205,53 @@ def multi_stop_gist():
     save(manifest)
 
 
+def music_box():
+    manifest = single_model_at_origin(
+        "music_box.json", "Music Box with lid that opens as an internal animation",
+        "models/musicbox", "models/musicbox.gltf", "A music box")
+
+    scene = manifest['items'][0]
+    add_label(scene, "A Scene Containing a Music Box")
+    mb_painting_anno = scene['items'][0]['items'][0]
+
+    annotation_page = scene['annotations'][0]
+    commenting_annotation = make_annotation("commenting", annotation_page['id'] + "/comment")
+    commenting_annotation.update({
+        "body": {
+            "type": "TextualBody",
+            "value": "Click the box to open the lid"
+        },
+        "target": {
+            "id": mb_painting_anno["id"],
+            "type": "Annotation"
+        }
+    })
+    annotation_page['items'].append(commenting_annotation)
+
+    activating_anno = make_annotation("activating", annotation_page['id'] + "/activator")
+    activating_anno.update({
+        "target": {
+            "id": commenting_annotation["id"],
+            "type": "Annotation"
+        },
+        "body": {
+            "type": "SpecificResource",
+            "source": mb_painting_anno["id"],
+            "selector": [
+                {
+                    "type": "AnimationSelector",
+                    "value": "open-the-lid"
+                }
+            ]
+        }
+    })
+    annotation_page['items'].append(activating_anno)
+
+    save(manifest)
+
 # -----------------------------------------------------------------------------
 
 basic_astronaut()
 issue_2366()
 multi_stop_gist()
+music_box()

@@ -1,0 +1,90 @@
+{
+    "@context": "http://iiif.io/api/presentation/4/context.json",
+    "id": "https://tomcrane.github.io/p4-constructor/iiif/manifest/music_box.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Music Box with lid that opens as an internal animation"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/music_box.json/scene-1",
+            "type": "Scene",
+            "label": {
+                "en": [
+                    "A Scene Containing a Music Box"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/music_box.json/scene-1/painting-annotation-pages/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/models/musicbox",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "label": {
+                                "en": [
+                                    "A music box"
+                                ]
+                            },
+                            "body": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/model/models/musicbox.gltf",
+                                "type": "Model"
+                            },
+                            "target": "https://tomcrane.github.io/p4-constructor/iiif/scene/music_box.json/scene-1"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/music_box.json/scene-1/other-annotation-pages/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/music_box.json/scene-1/other-annotation-pages/1/comment",
+                            "type": "Annotation",
+                            "motivation": [
+                                "commenting"
+                            ],
+                            "body": {
+                                "type": "TextualBody",
+                                "value": "Click the box to open the lid"
+                            },
+                            "target": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/models/musicbox",
+                                "type": "Annotation"
+                            }
+                        },
+                        {
+                            "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/music_box.json/scene-1/other-annotation-pages/1/activator",
+                            "type": "Annotation",
+                            "motivation": [
+                                "activating"
+                            ],
+                            "target": {
+                                "id": "https://tomcrane.github.io/p4-constructor/iiif/scene/music_box.json/scene-1/other-annotation-pages/1/comment",
+                                "type": "Annotation"
+                            },
+                            "body": {
+                                "type": "SpecificResource",
+                                "source": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/models/musicbox",
+                                "selector": [
+                                    {
+                                        "type": "AnimationSelector",
+                                        "value": "open-the-lid"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
