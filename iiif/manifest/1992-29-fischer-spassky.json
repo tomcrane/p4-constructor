@@ -2079,7 +2079,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2105,7 +2105,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2131,7 +2131,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2157,7 +2157,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2183,7 +2183,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/f1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2209,7 +2209,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2235,7 +2235,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/f1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2261,7 +2261,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2287,7 +2287,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2313,7 +2313,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/h1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2339,7 +2339,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/f8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2365,7 +2365,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/h1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2391,7 +2391,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2417,7 +2417,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/f1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2443,7 +2443,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2469,7 +2469,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2495,7 +2495,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2521,7 +2521,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/h8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2547,7 +2547,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/h2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2573,7 +2573,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2599,7 +2599,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2625,7 +2625,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2651,7 +2651,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2677,7 +2677,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2703,7 +2703,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2732,7 +2732,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2761,7 +2761,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2787,7 +2787,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2813,7 +2813,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2839,7 +2839,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2865,7 +2865,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2891,7 +2891,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/h7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2917,7 +2917,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2943,7 +2943,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2969,7 +2969,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -2998,7 +2998,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3027,7 +3027,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3056,7 +3056,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3085,7 +3085,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3114,7 +3114,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3140,7 +3140,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3166,7 +3166,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3195,7 +3195,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3221,7 +3221,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3250,7 +3250,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/f1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3279,7 +3279,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3305,7 +3305,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3331,7 +3331,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3357,7 +3357,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/f1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3386,7 +3386,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/h8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3415,7 +3415,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3444,7 +3444,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3473,7 +3473,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3502,7 +3502,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3531,7 +3531,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3557,7 +3557,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3583,7 +3583,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/d1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3612,7 +3612,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/h7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3641,7 +3641,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3667,7 +3667,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3693,7 +3693,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3719,7 +3719,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3745,7 +3745,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3774,7 +3774,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3803,7 +3803,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3829,7 +3829,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3855,7 +3855,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/f2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3881,7 +3881,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3907,7 +3907,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3933,7 +3933,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3959,7 +3959,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -3985,7 +3985,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g7",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4011,7 +4011,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4037,7 +4037,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4063,7 +4063,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4089,7 +4089,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4115,7 +4115,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4141,7 +4141,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4170,7 +4170,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4196,7 +4196,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4222,7 +4222,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4248,7 +4248,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/e8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4274,7 +4274,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4300,7 +4300,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/b8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4326,7 +4326,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/g2",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4352,7 +4352,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/c8",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
@@ -4378,7 +4378,7 @@
                                 {
                                     "type": "JSONPatch",
                                     "patchTarget": "https://tomcrane.github.io/p4-constructor/iiif/painting-annotation/a1",
-                                    "value": [
+                                    "operations": [
                                         {
                                             "op": "replace",
                                             "path": "/target/0/selector/0/x",
